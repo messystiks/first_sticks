@@ -4,7 +4,7 @@
 int main() {
     int n, i, j, temp;
 
-
+//merge
     printf("Introduceți numărul de elemente (n): ");
     scanf("%d", &n);
 
